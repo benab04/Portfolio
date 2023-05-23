@@ -95,6 +95,21 @@ body{
 }
 /*mobile-view*/
 @media only screen and (max-width: 1023px){
+    #head{
+        text-align: center;
+    }
+    /* #about{
+        text-align:center;
+    } */
+    #portfolio{
+        text-align: center;
+    }
+    #contact{
+        text-align: center;
+    }
+    .about-heading{
+        margin-left:20%;
+    }
     .head-text{
         margin-top:15%;
         margin-left: 30%;
@@ -288,6 +303,7 @@ nav p{
 
 #contact{
     padding: 5em;
+    text-align: center;
 }
 .contact-title{
     text-align: center;
