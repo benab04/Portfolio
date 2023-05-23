@@ -152,6 +152,10 @@ body{
     .space {
         padding:0.8em;
     }
+    .Email{
+    text-align:center;
+    margin-left:5%;
+}
     
 }
 
@@ -320,6 +324,7 @@ nav p{
 }
 .Email{
     text-align:center;
+   
 }
 .email-description{
     padding:1em;
