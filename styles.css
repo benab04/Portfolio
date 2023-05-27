@@ -154,13 +154,13 @@ body{
     }
     
 }
-    
-}
 
 /* Navbar */
 
 
-
+nav{
+    top:0;
+}
 .contents{
     text-decoration: none;
     /* text-align: center; */
@@ -192,6 +192,12 @@ nav p{
     top:0;
     
 }
+
+.sticky {
+    position: fixed;
+    top: 0;
+    width: 100%;
+  }
 
 /* Head */
 
@@ -318,6 +324,7 @@ nav p{
 .email-btn{
     color:#fff;
     font-weight:700;
+    text-align:center;
     
 }
 .Email{
